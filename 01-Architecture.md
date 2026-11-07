@@ -1,4 +1,4 @@
-# Architectural Diagram - Multi-Server
+# Multi-Server Architectural Diagram 
 
 This folder contains diagrams and design documents for the SoloTech environment.
 Project reports and technical documents.
