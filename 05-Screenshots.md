@@ -65,5 +65,16 @@ Screenshots of infrastructure and configuration.
 13. ## Printer Access control using GPO
 <img width="508" height="439" alt="Screenshot 2026-09-26 162847" src="https://github.com/user-attachments/assets/06284fff-aa95-4ad8-ab65-c6c89a52b8d3" />
 
+## Printer shares and NTFs permissions
+<img width="1045" height="898" alt="Screenshot 2026-09-29 020024" src="https://github.com/user-attachments/assets/0f65cbdb-97a8-4736-bb18-fd41b9fa4ae7" />
+
+## Disabling Legacy default printer set whiles printer checks for department move and reallocation
+<img width="770" height="367" alt="Screenshot 2026-10-01 011143" src="https://github.com/user-attachments/assets/e964642b-939a-4ce6-9d8b-00179cd986a5" />
+
+<img width="668" height="371" alt="Screenshot 2026-10-01 011417" src="https://github.com/user-attachments/assets/22a6bdce-040c-4b9b-8b89-fb6420014b0b" />
+
+## Windows Event Log - Remote centralized Logs
+
+
 
 
