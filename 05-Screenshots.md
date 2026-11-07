@@ -7,11 +7,23 @@ Screenshots of infrastructure and configuration.
 2. ## Windows 11 Hyper-V Installation Failure - requires Enabled Secure Boot, Enabled TPM, Increased virtual disk size from 60GB to 64GB+
 <img width="631" height="467" alt="Screenshot 2026-09-22 040303" src="https://github.com/user-attachments/assets/1cadf0de-bb0e-49a5-be76-781c85b742c9" />
 
+3. ## Server Setup
+<img width="946" height="506" alt="Screenshot 2026-10-18 233802" src="https://github.com/user-attachments/assets/a508e579-395b-4797-a4ec-b431324bda65" />
 
-3. ## ADUC - Organisational Unit setup
+4. ## DHCP setup
+<img width="784" height="330" alt="Screenshot 2026-10-19 005508" src="https://github.com/user-attachments/assets/2ff6f544-b6d5-4b1e-a8cb-d479e8100413" />
+
+<img width="512" height="386" alt="Screenshot 2026-10-18 235322" src="https://github.com/user-attachments/assets/1888f709-9592-440a-bdbb-2b7ce16a1c52" />
+
+
+3. ## Active Directory - Security Groups
+<img width="792" height="565" alt="Screenshot 2026-10-16 045616" src="https://github.com/user-attachments/assets/02081058-6b76-48ed-a323-14f7cdf91009" />
+
+
+6. ## Organisational Unit setup
 <img width="386" height="368" alt="Screenshot 2026-09-22 025916" src="https://github.com/user-attachments/assets/2954de84-732d-4ff1-a654-d3e6cd36fd75" />
 
-4. ## PC01 domain join
+4. ## PC01 domain join - Rename PC first before joining
    <img width="821" height="499" alt="Screenshot 2026-09-22 054908" src="https://github.com/user-attachments/assets/b01a93ca-d6ef-4c03-b663-e7847d8ada0b" />
 
 5. ## Authenticated users to be granted remote permission for Hyper-V Extended session:
