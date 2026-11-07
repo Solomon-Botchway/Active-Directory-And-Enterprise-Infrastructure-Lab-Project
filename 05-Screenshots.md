@@ -27,9 +27,11 @@ Screenshots of infrastructure and configuration.
 
 8. ## Password and Lock Out GPO policy
    <img width="590" height="382" alt="Screenshot 2026-09-24 180054" src="https://github.com/user-attachments/assets/0aa8b895-3c46-42c6-a064-d5708e18dcb1" />
+
+
    <img width="569" height="187" alt="Screenshot 2026-09-24 180114" src="https://github.com/user-attachments/assets/807f53bc-7784-49df-b228-28db7bafbe15" />
 
-9. ## Implemented Wallpaper GPO for HR Dept
+8. ## Implemented Wallpaper GPO for HR Dept
 <img width="518" height="454" alt="Screenshot 2026-09-26 041515" src="https://github.com/user-attachments/assets/b779a4c4-cdc0-4542-b5ab-55eea16bfb69" />
 
 10. ## Drive Mapping GPO
@@ -49,5 +51,6 @@ Screenshots of infrastructure and configuration.
 
 13. ## Printer Access control using GPO
 <img width="508" height="439" alt="Screenshot 2026-09-26 162847" src="https://github.com/user-attachments/assets/06284fff-aa95-4ad8-ab65-c6c89a52b8d3" />
+
 
 
