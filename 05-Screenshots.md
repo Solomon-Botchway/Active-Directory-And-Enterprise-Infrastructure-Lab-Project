@@ -1,7 +1,7 @@
 # Screenshots
 
 Screenshots of infrastructure and configuration.
-1. ### Devices and Setup
+1. ### Hyper-V Virtual Machines and Setup
 <img width="1066" height="1053" alt="Screenshot 2026-10-16 045937" src="https://github.com/user-attachments/assets/2612f12c-1bdb-4f29-9f61-b62288403432" />
 
 2. ## Windows 11 Hyper-V Installation Failure - requires Enabled Secure Boot, Enabled TPM, Increased virtual disk size from 60GB to 64GB+
