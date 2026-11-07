@@ -29,23 +29,24 @@ Screenshots of infrastructure and configuration.
    <img width="590" height="382" alt="Screenshot 2026-09-24 180054" src="https://github.com/user-attachments/assets/0aa8b895-3c46-42c6-a064-d5708e18dcb1" />
 
 
-   <img width="569" height="187" alt="Screenshot 2026-09-24 180114" src="https://github.com/user-attachments/assets/807f53bc-7784-49df-b228-28db7bafbe15" />
+9. <img width="569" height="187" alt="Screenshot 2026-09-24 180114" src="https://github.com/user-attachments/assets/807f53bc-7784-49df-b228-28db7bafbe15" />
 
-8. ## Implemented Wallpaper GPO for HR Dept
+10. ## Implemented Wallpaper GPO for HR Dept
 <img width="518" height="454" alt="Screenshot 2026-09-26 041515" src="https://github.com/user-attachments/assets/b779a4c4-cdc0-4542-b5ab-55eea16bfb69" />
 
-10. ## Drive Mapping GPO
+11. ## Drive Mapping GPO
 <img width="507" height="367" alt="Screenshot 2026-09-26 042351" src="https://github.com/user-attachments/assets/8ba351ba-9705-43f2-a154-5e977895bd00" />
 
-<img width="554" height="323" alt="Screenshot 2026-09-26 042016" src="https://github.com/user-attachments/assets/1d911504-445a-478c-989e-b216774a5d8b" />
+12. <img width="554" height="323" alt="Screenshot 2026-09-26 042016" src="https://github.com/user-attachments/assets/1d911504-445a-478c-989e-b216774a5d8b" />
 
-11. ## Software Deployment GPO
+13. ## Software Deployment GPO
 <img width="746" height="365" alt="Screenshot 2026-09-26 053422" src="https://github.com/user-attachments/assets/30c3c03f-4944-4db6-89b2-06548b79abd5" />
 
-12. ## Printer Deployment setup - with Targeting Access Control
+14. ## Printer Deployment setup - 
 <img width="367" height="294" alt="Screenshot 2026-09-26 132636" src="https://github.com/user-attachments/assets/790c210b-28ec-46b3-8c66-27061215447e" />
 
-<img width="764" height="320" alt="Screenshot 2026-09-26 132807" src="https://github.com/user-attachments/assets/1209687d-1c34-42a6-965e-abd2ee2066c4" />
+15. ## with Targeting Access Control
+16. <img width="764" height="320" alt="Screenshot 2026-09-26 132807" src="https://github.com/user-attachments/assets/1209687d-1c34-42a6-965e-abd2ee2066c4" />
 
 <img width="734" height="429" alt="Screenshot 2026-09-26 150933" src="https://github.com/user-attachments/assets/f58a1ec4-2743-4319-a66d-1951e93bd167" />
 
