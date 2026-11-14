@@ -22,6 +22,8 @@ The environment was designed, deployed, administered, and continuously improved 
 ---
 <img width="806" height="467" alt="Screenshot 2026-11-07 062552" src="https://github.com/user-attachments/assets/b570938a-e8c1-4029-8e92-f1665e936d09" />
 
+<img width="957" height="438" alt="image" src="https://github.com/user-attachments/assets/e44ba2ed-a3f3-4b29-a591-7522485757c2" />
+
 
 <img width="1066" height="1053" alt="Screenshot 2026-10-16 045937" src="https://github.com/user-attachments/assets/5274949b-cdfd-43ba-874e-ff004338a22a" />
 
