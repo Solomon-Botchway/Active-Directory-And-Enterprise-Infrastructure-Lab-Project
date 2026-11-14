@@ -1,1 +1,1 @@
-## Read from the top to see project flow
+## Read 00-README.md 
