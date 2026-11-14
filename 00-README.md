@@ -354,7 +354,7 @@ Created and configured:
 solotech.local
 └── SoloTech
     └── Finance
-         └── david.carter
+         └── emma.hughes
 ```
 
 Configured:
