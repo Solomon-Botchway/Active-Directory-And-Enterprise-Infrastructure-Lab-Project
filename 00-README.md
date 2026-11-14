@@ -126,7 +126,7 @@ Configured as the primary domain-joined workstation for:
 <img width="515" height="448" alt="Screenshot 2026-10-04 202507" src="https://github.com/user-attachments/assets/fb90b7fb-16e7-4847-a568-a6eb21ed434c" />
 ![Uploading Screenshot 2026-10-12 004540.png…]()
 
-<img width="527" height="904" alt="Screenshot 2026-10-04 202633" src="https://github.com/user-attachments/assets/d5c86e8d-d33a-401b-b00d-0f8b8b7d98e5" />
+<img width="527" height="473" alt="Screenshot 2026-10-04 2026331" src="https://github.com/user-attachments/assets/fa244342-7928-4802-8629-6e19db76350d" />
 
 ---
 
