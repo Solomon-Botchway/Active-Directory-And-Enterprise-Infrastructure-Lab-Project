@@ -269,6 +269,7 @@ FS01
 <img width="957" height="515" alt="image" src="https://github.com/user-attachments/assets/a7d5671f-9d1a-4445-a337-aae3bd49f872" />
 
 Successfully implemented:
+<img width="590" height="382" alt="Screenshot 2026-09-24 180054" src="https://github.com/user-attachments/assets/08322fb4-201e-40f2-926e-cdc06a2a75b4" />
 
 - Password Complexity Policies
 - Account Lockout Policies
@@ -283,6 +284,9 @@ Successfully implemented:
 <img width="966" height="1017" alt="image" src="https://github.com/user-attachments/assets/cb081a92-2303-45d2-b539-07d8e534a5e3" />
 
 <img width="506" height="501" alt="image" src="https://github.com/user-attachments/assets/bcd856a8-013b-425d-bca8-1739aaeb2fc3" />
+
+## HR Wallpaper Deployment by GPO
+<img width="511" height="448" alt="Screenshot 2026-09-26 041545" src="https://github.com/user-attachments/assets/078ed599-6c83-4fd4-ab46-31347651b9c0" />
 
 
 ## 5. File Services
@@ -322,6 +326,7 @@ to protect sensitive financial records.
 # Featured Projects
 
 ## 1. New Employee Onboarding
+<img width="1046" height="491" alt="Screenshot 2026-10-11 034410" src="https://github.com/user-attachments/assets/eac439fe-8c60-4dab-956c-d29700621531" />
 
 ### Ticket Reference
 
@@ -406,12 +411,18 @@ The new employee was deliberately excluded from Payroll access using:
 ---
 
 ## 2. Security Monitoring & Event Forwarding
+![Uploading Screenshot 2026-09-30 225853.png…]()
+<img width="766" height="380" alt="Screenshot 2026-09-30 225739" src="https://github.com/user-attachments/assets/cef09553-387f-49f9-84b2-15382335ed71" />
 
 ### Objective
 
 Implement centralized event collection and security auditing.
+<img width="956" height="415" alt="image" src="https://github.com/user-attachments/assets/479b2c93-ad2c-4227-918d-39ab4447ddd2" />
+
+<img width="565" height="463" alt="Screenshot 2026-09-30 224737" src="https://github.com/user-attachments/assets/2a38dccf-9d35-4f98-ab8c-de32ae03ca37" />
 
 ### Architecture
+<img width="850" height="520" alt="Screenshot 2026-09-30 224946" src="https://github.com/user-attachments/assets/7ee4839b-6581-406a-8a17-c9fddc3bd5d2" />
 
 ```text
 PC01
@@ -445,6 +456,9 @@ Provides visibility into:
 - Account management events
 - Security policy enforcement
 - User behaviour monitoring
+<img width="571" height="437" alt="Screenshot 2026-09-30 223545" src="https://github.com/user-attachments/assets/be9da7d2-44b9-4aba-ba97-67d3b7bb2f69" />
+
+<img width="478" height="286" alt="Screenshot 2026-09-30 224542" src="https://github.com/user-attachments/assets/9a2fde9c-147f-4a06-b2af-a0d6c309f4d3" />
 
 ---
 
@@ -477,7 +491,7 @@ Each issue was documented using:
 
 ---
 
-# Technical Skills Demonstrated
+# General Technical Skills Demonstrated
 
 ## Infrastructure
 
@@ -546,14 +560,18 @@ This project evolved from a simple Active Directory deployment into a miniature 
 
 ---
 
-## Hands-On Lab: 
-## Scheduled Task Authentication & Network Drive Troubleshooting
+
+## 3. Scheduled Task Authentication & Network Drive Troubleshooting
+<img width="1069" height="1000" alt="Screenshot 2026-10-10 124358" src="https://github.com/user-attachments/assets/4b7872a7-58ca-4fa5-8e66-daba97fad6c4" />
 
 ### Overview
 
 As part of my Active Directory Helpdesk Lab, I created and tested a Scheduled Task running under a domain user account (`SOLOTECH\d.carter`) to simulate a real-world account lockout scenario caused by stale credentials.
 
 During implementation, I encountered and resolved several issues involving Group Policy, Windows authentication, Task Scheduler security contexts, and mapped network drives. This exercise provided practical experience troubleshooting Windows administration issues commonly seen in enterprise environments.
+
+
+<img width="1014" height="868" alt="Screenshot 2026-10-11 210916" src="https://github.com/user-attachments/assets/25c3eaf9-5d1f-4755-80e7-f05f1abb1180" />
 
 ---
 
@@ -564,7 +582,7 @@ Create an automated reporting task that runs under a domain account and writes r
 ---
 
 ### Issue 1: Scheduled Task Would Not Start
-
+<img width="522" height="237" alt="Screenshot 2026-10-10 144836" src="https://github.com/user-attachments/assets/434672f8-dc13-4a0f-87e0-8fd76f02d2ec" />
 #### Symptoms
 
 The task failed to execute and displayed:
@@ -573,12 +591,13 @@ The task failed to execute and displayed:
 This task requires that the user account specified has
 Log on as a batch job rights.
 ```
-
+<img width="641" height="808" alt="Screenshot 2026-10-10 200038" src="https://github.com/user-attachments/assets/95e643ca-47f2-489f-904a-2151ffadc29a" />
 #### Root Cause
 
 Although the user account could log on interactively, Task Scheduler runs under a separate **batch logon** security context requiring the **Log on as a batch job** user right.
 
 #### Resolution
+
 
 Configured the required User Rights Assignment through Group Policy and applied updates using:
 
@@ -620,6 +639,7 @@ confirming that the task was executing under the intended domain account.
 - Security Context Verification
 
 ---
+<img width="1022" height="847" alt="Screenshot 2026-10-10 185133" src="https://github.com/user-attachments/assets/76267849-bd0d-4436-bf3a-10b31cc8a333" />
 
 ### Issue 3: Scheduled Task Failed When Writing to Mapped Network Drive
 
