@@ -20,7 +20,10 @@ The project focuses on building practical experience in:
 The environment was designed, deployed, administered, and continuously improved through real-world support scenarios and change-management style projects.
 
 ---
-<img width="946" height="506" alt="Screenshot 2026-10-18 233802" src="https://github.com/user-attachments/assets/8f4d318e-520a-4f29-8279-33189b405a5d" />
+<img width="806" height="467" alt="Screenshot 2026-11-07 062552" src="https://github.com/user-attachments/assets/b570938a-e8c1-4029-8e92-f1665e936d09" />
+
+
+<img width="1066" height="1053" alt="Screenshot 2026-10-16 045937" src="https://github.com/user-attachments/assets/5274949b-cdfd-43ba-874e-ff004338a22a" />
 
 # Infrastructure Overview
 
@@ -58,6 +61,7 @@ Windows Server              Windows Server          Windows 11                 L
 
 ```
 ## Active Directory Structure
+<img width="556" height="389" alt="Screenshot 2026-11-07 062831" src="https://github.com/user-attachments/assets/329a58fd-62f4-4ca1-b0b4-cc697bf68186" />
 
 ```
 solotech.local
@@ -80,6 +84,8 @@ CustomerService-Team
 Finance-Team-Payroll
 Automation-Robotics
 ```
+<img width="792" height="565" alt="Screenshot 2026-10-16 045616" src="https://github.com/user-attachments/assets/f0735ca1-e0b5-4c40-b2bd-9f5f0545805a" />
+
 ---
 # Infrastructure Components
 
@@ -96,10 +102,13 @@ Configured as the central infrastructure server providing:
 - Print Services
 - Software Deployment Repository
 - Windows Event Collector
+- 
+<img width="808" height="434" alt="Screenshot 2026-11-07 060929" src="https://github.com/user-attachments/assets/9767a221-a104-46f9-86b5-87588d19a143" />
 
 ## PC01 & PC03 – Windows 11 Enterprise
 
 Configured as the primary domain-joined workstation for:
+<img width="806" height="692" alt="Screenshot 2026-10-12 004540" src="https://github.com/user-attachments/assets/192a1776-e6e9-458c-beef-fd53bb742da2" />
 
 - User authentication testing
 - Group Policy validation
@@ -114,12 +123,17 @@ Configured as the primary domain-joined workstation for:
 
 - RBAC authentication testing
 - Multi-Platform testing
+<img width="515" height="448" alt="Screenshot 2026-10-04 202507" src="https://github.com/user-attachments/assets/fb90b7fb-16e7-4847-a568-a6eb21ed434c" />
+![Uploading Screenshot 2026-10-12 004540.png…]()
+
+<img width="527" height="904" alt="Screenshot 2026-10-04 202633" src="https://github.com/user-attachments/assets/d5c86e8d-d33a-401b-b00d-0f8b8b7d98e5" />
 
 ---
 
 # Core Technologies Implemented
 
 ## 1. Active Directory & Identity Management
+<img width="795" height="410" alt="Screenshot 2026-11-07 071449" src="https://github.com/user-attachments/assets/054f4038-d964-482a-887f-ccec8ac232e4" />
 
 - User account provisioning
 - Password management
@@ -138,6 +152,7 @@ Implemented and managed Microsoft DNS as part of the Active Directory infrastruc
 - Installed and configured the DNS Server role
 - Integrated DNS with Active Directory Domain Services (AD DS)
 - Managed the internal DNS zone:
+
 
 ```text
 solotech.local
@@ -197,6 +212,8 @@ as their primary DNS server, ensuring consistent domain authentication, Group Po
 ---
 
 ## 3. DHCP Implementation
+<img width="784" height="330" alt="Screenshot 2026-10-19 005508" src="https://github.com/user-attachments/assets/59e8c2fe-d450-4c3b-a12a-9630410a752c" />
+
 
 A centralized DHCP service was deployed on DC01 to automate IP address management.
 
@@ -236,6 +253,7 @@ FS01
 - Automatic DNS registration
 - Reduced manual configuration
 - Enterprise-style network administration
+<img width="512" height="386" alt="Screenshot 2026-10-18 235322" src="https://github.com/user-attachments/assets/8e793563-7412-491e-9c53-5a68f7e13fce" />
 
 ### Skills Demonstrated
 
@@ -247,6 +265,7 @@ FS01
 ---
 
 ## 4. Group Policy Management
+<img width="957" height="515" alt="image" src="https://github.com/user-attachments/assets/a7d5671f-9d1a-4445-a337-aae3bd49f872" />
 
 Successfully implemented:
 
@@ -260,8 +279,13 @@ Successfully implemented:
 - Security Auditing Policies
 - Finance only Software
 - Finance Desktop Policies
+<img width="966" height="1017" alt="image" src="https://github.com/user-attachments/assets/cb081a92-2303-45d2-b539-07d8e534a5e3" />
+
+<img width="506" height="501" alt="image" src="https://github.com/user-attachments/assets/bcd856a8-013b-425d-bca8-1739aaeb2fc3" />
+
 
 ## 5. File Services
+<img width="812" height="539" alt="Screenshot 2026-11-07 062347" src="https://github.com/user-attachments/assets/d9906eda-4915-41fc-963a-c301c65e4014" />
 
 Departmental file shares secured through:
 
@@ -283,6 +307,7 @@ SALES_Drive
 
 CUST-SERV_Drive
 ```
+<img width="1045" height="898" alt="Screenshot 2026-09-29 020024" src="https://github.com/user-attachments/assets/f7ea2c29-be1d-4125-89b1-7255d8a6b13e" />
 
 A separate Payroll security model was implemented using:
 
