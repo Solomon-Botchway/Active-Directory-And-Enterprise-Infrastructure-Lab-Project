@@ -1,1 +1,1 @@
-## Read 00-README.md 
+## Kindly start from 00-README.md first
