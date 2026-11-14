@@ -143,6 +143,8 @@ Configured as the primary domain-joined workstation for:
 - Least Privilege implementation
 
 ## 2. DNS (Domain Name System)
+<img width="956" height="415" alt="image" src="https://github.com/user-attachments/assets/5e8a8183-b79d-4526-a591-ad69242ea492" />
+
 
 Implemented and managed Microsoft DNS as part of the Active Directory infrastructure on DC01.
 
